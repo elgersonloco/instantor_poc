@@ -2,7 +2,7 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
     <modelVersion>4.0.0</modelVersion>
     <groupId>com.banregio</groupId>
-    <artifactId>instantor</artifactId>
+    <artifactId>instantor_poc</artifactId>
     <packaging>war</packaging>
     <version>1.0</version>
     <name>instantor Maven Webapp</name>
@@ -30,6 +30,6 @@
         </dependency>
     </dependencies>
     <build>
-        <finalName>instantor</finalName>
+        <finalName>instantor_poc</finalName>
     </build>
 </project>
